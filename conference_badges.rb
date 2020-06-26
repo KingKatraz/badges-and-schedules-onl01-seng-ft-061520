@@ -22,9 +22,17 @@ end
 room_number
 end
 
-def printer 
+def printer(badge)
+  
+  
+  batch_badge_creator(badge)
+  
+  
+  assign_rooms(badge)
+  
   
 end
+
 
 
 
