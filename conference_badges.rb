@@ -31,6 +31,8 @@ def printer(badge)
   
   assign_rooms(badge).each do |index_2|
     puts index_2
+    
+  end
   
   
 end
