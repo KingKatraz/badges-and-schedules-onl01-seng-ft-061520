@@ -22,5 +22,9 @@ end
 room_number
 end
 
+def printer 
+  
+end
+
 
 
